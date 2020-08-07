@@ -1,0 +1,16 @@
+.wrapper {
+    background-color: white;
+    border-radius: 2px;
+    border: 1px solid #F8F8F8;
+    box-shadow: 4px 2px 4px 0 rgba(0,0,0,.2);
+    color: lightgray;
+    margin: 0 0 0 32px;
+    padding: 32px 0 0 32px;
+    padding: 8px 24px;
+    width: 100%;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 100;
+}
